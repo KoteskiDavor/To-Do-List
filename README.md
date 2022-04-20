@@ -1,4 +1,3 @@
-(https://user-images.githubusercontent.com/51781170/164325530-5529fcd1-36d7-44c6-b6fb-df2e688922de.png)
 
 # Getting Started with Create React App![To Do List]
 
