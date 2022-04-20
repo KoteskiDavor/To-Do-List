@@ -1,0 +1,17 @@
+* {
+  background-color: #eec0c6;
+  background-image: linear-gradient(to right, #7ee8fa 20%, #eec0c6 74%);
+  background-repeat: repeat-y;
+}
+
+.App,
+.theme-btn {
+  text-align: end;
+}
+.theme-btn {
+  margin: 1% 0.5% 0 0;
+}
+.theme-picker {
+  position: absolute;
+  right: 0px;
+}

@@ -1,0 +1,19 @@
+.theme {
+  display: block;
+  text-align: end;
+}
+.choose-text {
+  padding-top: 0.5%;
+  font-size: 250%;
+  padding-right: 1%;
+  font-family: "Josefin Sans", sans-serif;
+}
+.theme-selector {
+  padding-right: 4%;
+}
+input {
+  cursor: pointer;
+}
+.input-two {
+  margin: 0 0 0 5%;
+}

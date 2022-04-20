@@ -1,0 +1,28 @@
+.todolist {
+  display: flex;
+  justify-content: center;
+  min-height: 50%;
+  padding-top: 3%;
+}
+.todo-input {
+  width: 40%;
+  background: white;
+}
+.todo-button {
+  height: 100%;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  background: #f7fffe;
+  color: black;
+}
+
+.css-i4bv87-MuiSvgIcon-root {
+  background: white;
+}
+.todo-button:hover {
+  background: black;
+}
+.check-progress {
+  background: white;
+  height: 101%;
+}
